@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Resume</title>
+</head>
+<body>
+	<h1>Profile</h1>
+	<img src="/path/direktoryo/https://drive.google.com/file/d/1Lmefx7r44gL-D0Lh6IUJQSpLeQi3giEb/view?usp=drivesdk"/> alt=profile picture ko>
+	
+	<h1>Summary</h1>
+	<p>Ang experience ko ay marami na, at ang skills kunaman ay kulang pa!, isa na dito ang naging experience ko sa pag gamit ng computer!, at marami pang iba. Ang skills kunaman ay ang pag gamit din ng computer!! Haha at pag luluto,pag gawa ng iba pang nagagawa ko tulad ng nakaka invento ako kahit ano.</p>
+	
+	<h1>Education</h1>
+	<ul>
+		<li>junior high school diploma,silanga national high school,(2023-2024)</li>
+		<li>Certificate of Completion, Junior High School, silanga national high school,(2023-2024)</li>
+	</ul>
+	
+	<h1>Work Experience</h1>
+	<ul>
+		<li>
+Estudyante, silanga national high school, (2020-2024)
+			<ul>
+				<li>Nagpartisipa sa mga proyekto ng mga organisasyon sa paaralan</li>
+				<li>Nagboluntaryo sa mga aktibidad ng komunidad</li>
+			</ul>
+		</li>
+		<li>
+			Nag babantay ng tindahan,sa old mahayag, (2021-2023)
+			<ul>
+				<li>nag titinda ng paninda</li>
+				<li>nag dadala ng mga binili na mga paninda</li>
+			</ul>
+		</li>
+	</ul>
+	
+	<h1>Skills</h1>
+	<ul>
+		<li>cooking skills</li>
+		<li>computer skills</li>
+		<li>simple inventor</li>
+		<li>at marami pang iba</li>
+	</ul>
+	
+	<h1>Awards and Certifications</h1>
+	<ul>
+		<li>WITH HONORS, (2023-2024)</li>
+		<li>second place in SHS poster Making contest, (2024) </li>
+		<Li>3rd place in (sk)old mahayag poster making contest, (2024)</Li>
+		<Li>Best in drawing, old mahayag elementary school, (2014-2015)</Li>
+	</ul>
+	
+	<h1><a href="hobbies.html">Hobbies</a></h1>
+	<h1><a href="contact.html">Contact Details</a></h1>
+	
+	<footer>
+		&copy; REYNALDO YBOA
+	</footer>
+</body>
+</html> 
+
+	 
